@@ -100,6 +100,7 @@ def parse_nf():
                         "type": "text",
                         "text": 
                         "extract the name, amount_per_serving and daily_value for every ingredient in table from image related to nutrition facts of certain product"
+                        "extract the name, amount_per_serving and daily_value for every ingredient in table from image related to nutrition facts of certain product"
                         "extract serving size"
                         "extract serving per container"
                         "extract ingredients under other ingredients section"
